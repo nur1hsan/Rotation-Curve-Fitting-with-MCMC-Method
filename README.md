@@ -1,3 +1,3 @@
 # Rotation-Curve-Fitting-with-MCMC-Method
 
-This project blabla
+I used SPARC data for this code. http://astroweb.cwru.edu/SPARC/
